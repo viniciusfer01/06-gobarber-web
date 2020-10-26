@@ -1,5 +1,5 @@
 # GoBarber-Web
-An app that schedules appointments.
+An app that schedules and shows appointments.
 
 ### Tools used
 
